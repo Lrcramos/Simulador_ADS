@@ -205,9 +205,52 @@
      { "text": "Volatilidade, Veracidade, Vulnenabilidade, Verdade e Volume" },
      { "text": "Vulnenabilidade, verdade, volume, variabilidade e veracidade" }
     ],
-  "Resposta": "Volume, variedade, velocidade, variabilidade e veracidade"
-  }
-  
+    "Resposta": "Volume, variedade, velocidade, variabilidade e veracidade"
+  },
+  {
+  "question": "Karahoca (2012) considera uma série de seis etapas de desenvolvimento para sistemas de inteligência de negócios. Qual etapa corresponde à análise dos requisitos do negócio?",
+  "options": [
+      { "text": "Etapa 3" },
+      { "text": "Etapa 1" },
+      { "text": "Etapa 2" },
+      { "text": "Etapa 4" },
+      { "text": "Etapa 5" }
+    ],
+    "Resposta": "Etapa 3"
+  },
+  {
+  "question": "De acordo com Chiavenato (2014), um dos elementos presentes no processo decisório é o estado de natureza. Este elemento corresponde:",
+  "options": [
+      { "text": "As condições de incerteza, risco ou certeza que existem no ambiente de decisão que o tomador de decisão deve enfrentar." },
+      { "text": "Aos aspectos do ambiente que envolve o tomador de decisão, muitos dos quais estão fora do seu controle, conhecimento ou compreensão e que afetam a sua escolha." },
+      { "text": "Ao curso de ação que o tomador de decisão escolhe para melhor atingir os objetivos." },
+      { "text": "A consequência ou resultante de uma determinada estratégia." },
+      { "text": "Pessoa ou grupo que faz uma opção entre várias alternativas." }
+    ],
+    "Resposta": "As condições de incerteza, risco ou certeza que existem no ambiente de decisão que o tomador de decisão deve enfrentar."
+},
+{
+  "question": "Os data warehouses oferecem benefícios estratégicos para as organizações, permitindo análises aprofundadas e suporte à tomada de decisão. Um desses benefícios é a eliminação de redundâncias e a padronização de dados, o que garante maior precisão nas análises. Considerando o texto, qual das opções abaixo representa corretamente um benefício proporcionado por um data warehouse?",
+  "options": [
+      { "text": "Atualização em tempo real dos dados de sistemas operacionais." },
+      { "text": "Limitação na integração de dados de diferentes fontes." },
+      { "text": "Exclusividade para armazenamento local em mainframes." },
+      { "text": "Armazenamento de dados específicos para um único aplicativo." },
+      { "text": "Eliminação de redundâncias e padronização de dados." }
+    ],
+    "Resposta": "Eliminação de redundâncias e padronização de dados."
+},
+{
+  "question": "As decisões sobre as atividades diárias das empresas, onde as tarefas, os recursos e os objetivos são predefinidos e altamente estruturados, consideradas a base do organograma e que demandam que o administrador tenha a visão de como a organização funciona no dia a dia, são decisões do tipo:",
+  "options": [
+      { "text": "Operacionais" },
+      { "text": "Táticas" },
+      { "text": "Estratégicas" },
+      { "text": "Difusas" },
+      { "text": "Pervasivas" }
+    ],
+    "Resposta": "Operacionais"
+}
 ]
 
 
