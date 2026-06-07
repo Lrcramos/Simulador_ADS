@@ -195,8 +195,18 @@
       { "text": "estruturados e analíticos" }
     ],
     "Resposta": "semi-estruturados e não estruturados"
+  },
+    {
+    "question": "Quais são os 5 Vs do Big Data?",
+    "options": [
+     { "text": "Volume, variedade, velocidade, variabilidade e veracidade" },
+     { "text": "Volume, variância, velocidade, variabilidade e veracidade" },
+     { "text": "Verdade, velocidade, variabilidade, variância e volume" },
+     { "text": "Volatilidade, Veracidade, Vulnenabilidade, Verdade e Volume" },
+     { "text": "Vulnenabilidade, verdade, volume, variabilidade e veracidade" }
+    ],
+    "Resposta": "Volume, variedade, velocidade, variabilidade e veracidade"
   }
-  
 ]
 
 
