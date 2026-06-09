@@ -333,7 +333,7 @@
       { "text": "O ransomware permite acesso remoto contínuo para o atacante sem qualquer alteração nos dados." },
       { "text": "O ransomware identifica e elimina automaticamente os arquivos de segurança." }
     ],
-    "Resposta": ""
+    "Resposta": "O ransomware criptografa os dados e ameaça expor informações confidenciais se o pagamentos não for realizado."
   }
   ,
   {
@@ -467,6 +467,105 @@
       { "text": "Ativar o DAI para inspeção do protocolo ARP." }
     ],
     "Resposta": "Configurar firewalls para bloquear tentativas de varredura de porta."
+  },
+   {
+    "question": "Qual das seguintes afirmações é verdadeira sobre o modelo de Software como Serviço (SaaS)?",
+    "options": [
+      { "text": "SaaS não oferece flexibilidade em termos de escalabilidade para empresas." },
+      { "text": "SaaS elimina a necessidade de qualquer tipo de suporte técnico ou atualizações." },
+      { "text": "SaaS requer que os usuários instalem e mantenham software em seus dispositivos locais" },
+      { "text": "SaaS permite acesso a aplicativos via internet, normalmente através de um navegador web" },
+      { "text": "SaaS é sinônimo de software open source." }
+    ],
+    "Resposta": "SaaS permite acesso a aplicativos via internet, normalmente através de um navegador web"
+  },
+  {
+    "question": "Qual das seguintes afirmações é verdadeira sobre o algoritmo de hash MD5?",
+    "options": [
+      { "text": "O MD5 gera hashes diferentes para inputs idênticos" },
+      { "text": "O MD5 é um algoritmo de hash que produz um valor de 128 bits." },
+      { "text": "O MD5 é considerado seguro e amplamente recomendado para novas aplicações de segurança" },
+      { "text": "O MD5 pode ser revertido para obter os dados originais" },
+      { "text": "O MD5 é usado para criptografar dados confidenciais de forma segura" }
+    ],
+    "Resposta": "O MD5 é um algoritmo de hash que produz um valor de 128 bits."
+  },
+  {
+    "question": "Qual das seguintes práticas é mais eficaz para se proteger contra ataques Man-in-the-Middle (MitM)?",
+    "options": [
+      { "text": "Desativar todas as atualizações de software para evitar interrupções" },
+      { "text": "Usar apenas redes Wi-Fi públicas, pois são mais convenientes" },
+      { "text": "Compartilhar senhas e informações pessoais apenas em redes sociais." },
+      { "text": "Confiar em conexões HTTP em vez de HTTPS para maior velocidade" },
+      { "text": "Utilizar uma VPN (Virtual Private Network) ao acessar redes não confiáveis." }
+    ],
+    "Resposta": "Utilizar uma VPN (Virtual Private Network) ao acessar redes não confiáveis."
+  },
+  {
+    "question": "Qual das seguintes afirmações é verdadeira sobre ataques de phishing?",
+    "options": [
+      { "text": "Phishing é uma forma de malware que se instala automaticamente em dispositivos sem interação do usuário." },
+      { "text": "Phishing é uma técnica de ataque que compromete redes Wi-Fi para roubar dados." },
+      { "text": "Phishing envolve a criação de websites ou e-mails falsos que imitam entidades confiáveis para enganar os usuários." },
+      { "text": "Phishing só pode ser realizado através de e-mails" },
+      { "text": "Phishing não representa uma ameaça significativa para indivíduos, apenas para grandes organizações." }
+    ],
+    "Resposta": "Phishing envolve a criação de websites ou e-mails falsos que imitam entidades confiáveis para enganar os usuários."
+  },
+  {
+    "question": "Conseguir manter a disponibilidade durante eventos disruptivos descreve quais dos princípios da alta disponibilidade?",
+    "options": [
+      { "text": "intolerância a falhas" },
+      { "text": "único ponto de falha" },
+      { "text": "tolerância a falhas" },
+      { "text": "Serviços que não são interrompidos" },
+      { "text": "resiliência do sistema" }
+    ],
+    "Resposta": "resiliência do sistema"
+  },
+  {
+    "question": "Qual das alternativas abaixo é uma medida eficaz para evitar ataques de injeção SQL?",
+    "options": [
+      { "text": "Configurar o banco de dados para ignorar comandos SQL complexos." },
+      { "text": "Utilizar apenas senhas complexas para o banco de dados" },
+      { "text": "Limitar o número de usuários com acesso ao banco de dados." },
+      { "text": "Desativar a autenticação multifatorial no banco de dados" },
+      { "text": "Utilizar consultas preparadas e com validação rigorosa de dados de entrada." }
+    ],
+    "Resposta": "Utilizar consultas preparadas e com validação rigorosa de dados de entrada."
+  },
+  {
+    "question": "Qual comando no Linux é utilizado para listar o conteúdo de um diretório mostrando as permissões dos arquivos e/ou diretórios?",
+    "options": [
+      { "text": "touch" },
+      { "text": "mv -l" },
+      { "text": "ls -l" },
+      { "text": "cp" },
+      { "text": "ls" }
+    ],
+    "Resposta": "ls -l"
+  },
+  {
+    "question": "Engenharia social é uma técnica de ataque que explora a manipulação psicológica das vítimas para obter informações confidenciais. Qual das alternativas a seguir representa um exemplo clássico de ataque de engenharia social?",
+    "options": [
+      { "text": "Um ransomware criptografa os dados de uma empresa e exige resgate." },
+      { "text": "Um hacker intercepta pacotes de dados usando um sniffer de rede." },
+      { "text": "Um atacante realiza um ataque DDoS para interromper o serviço de um site." },
+      { "text": "Um invasor usa força bruta para adivinhar senhas de uma conta." },
+      { "text": "Um atacante convence um funcionário a fornecer dados de acesso fingindo ser do departamento de TI." }
+    ],
+    "Resposta": "Um atacante convence um funcionário a fornecer dados de acesso fingindo ser do departamento de TI."
+  },
+  {
+    "question": "Os ataques de amplificação e reflexão são usados para aumentar o impacto de um ataque DDoS, refletindo e ampliando o tráfego em direção ao alvo. Qual das alternativas a seguir descreve uma técnica de amplificação?",
+    "options": [
+      { "text": "Enviar comandos SQL maliciosos para explorar vulnerabilidades de banco de dados." },
+      { "text": "Enviar pacotes com endereços IP falsificados para um servidor DNS para gerar um grande volume de respostas." },
+      { "text": "Interceptar pacotes de dados por meio de um ataque de sniffing." },
+      { "text": "Invadir diretamente o servidor-alvo com um número limitado de pacotes." },
+      { "text": "Desativar temporariamente o firewall de um sistema." }
+    ],
+    "Resposta": "Enviar pacotes com endereços IP falsificados para um servidor DNS para gerar um grande volume de respostas."
   }
 
 
