@@ -274,6 +274,28 @@
       { "text": "OP - <br><img src='./Img_perguntas/DNRQ6E.png'>" }
     ],
     "Resposta": "OP - <br><img src='./Img_perguntas/DNRQ6B.png'>"
+  },
+  {
+    "question": "No modelo orientado a documentos, como no MongoDB, os dados são armazenados principalmente em:",
+    "options": [
+      { "text": "Arquivos CSV com colunas fixas" },
+      { "text": "Documentos semiestruturados, geralmente em formato JSON ou BSON" },
+      { "text": "Blocos binários com índice hash" },
+      { "text": "Linhas e colunas fixas e normalizadas" },
+      { "text": "Grafos compostos de nós e arestas" }
+    ],
+    "Resposta": "Documentos semiestruturados, geralmente em formato JSON ou BSON"
+  },
+  {
+    "question": "Seja a collection inventario. Vários documentos são inseridos conforme abaixo.Um gerente de inventário deseja saber a quantidade total de cada item armazenado no estoque. Ele consulta o sistema para agrupar os itens pelo nome e somar a quantidade (qtd) de cada um. Qual é a consulta correta para realizar esta operação?",
+    "options": [
+      { "text": "db.inventario.aggregate([{ $group: { _id: '$nome', total_qtd: { $avg: '$qtd' } } }])" },
+      { "text": "db.inventario.aggregate([{ $group: { _id: '$nome', total_qtd: { $max: '$qtd' } } }])" },
+      { "text": "db.inventario.aggregate([{ $group: { _id: '$nome', total_qtd: { $sum: '$qtd' } } }])" },
+      { "text": "db.inventario.aggregate([{ $group: { _id: '$qtd', total_qtd: { $sum: '$qtd' } } }])" },
+      { "text": "db.inventario.aggregate([{ $group: { _id: '$nome', total_qtd: { $min: '$qtd' } } }])" }
+    ],
+    "Resposta": "db.inventario.aggregate([{ $group: { _id: '$nome', total_qtd: { $sum: '$qtd' } } }])"
   }
   
 ]
