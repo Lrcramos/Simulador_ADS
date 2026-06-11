@@ -374,6 +374,105 @@
       { "text": "OP - <br><img src='./Img_perguntas/DSMQUE2E.png'>" }
     ],
     "Resposta": "OP - <br><img src='./Img_perguntas/DSMQUE2A.png'>"
+  },
+  {
+    "question": "Por que os aplicativos móveis são preferidos pelos usuários?",
+    "options": [
+      { "text": "Todas as opções anteriores." },
+      { "text": "Nenhuma das alternativas" },
+      { "text": "Por estarem disponíveis quando necessário." },
+      { "text": "Por terem custos menores em comparação com outros dispositivos" },
+      { "text": "Por serem rápidos e práticos" }
+    ],
+    "Resposta": "Todas as opções anteriores."
+  },
+  {
+    "question": "Para quais aspectos do desenvolvimento de aplicativos as diretrizes fornecem ajuda aos desenvolvedores?",
+    "options": [
+      { "text": "Design da interface do usuário." },
+      { "text": "Nenhuma das respostas anteriores." },
+      { "text": "Estratégias de marketing de aplicativos." },
+      { "text": "Configuração do servidor backend." },
+      { "text": "Depuração e testes." }
+    ],
+    "Resposta": "Design da interface do usuário."
+  },
+  {
+    "question": "Quais são os dois principais sistemas operacionais para desenvolvimento móvel mencionados no texto?",
+    "options": [
+      { "text": "Windows e macOS." },
+      { "text": "Linux e Ubuntu." },
+      { "text": "Java e Swift." },
+      { "text": "Nenhuma das respostas anteriores." },
+      { "text": "Android e iOS." }
+    ],
+    "Resposta": "Android e iOS."
+  },
+  {
+    "question": "Qual é uma das vantagens do desenvolvimento de aplicativos móveis em relação à computação convencional?",
+    "options": [
+      { "text": "Maior capacidade de processamento." },
+      { "text": "Maior segurança dos dados." },
+      { "text": "Todas as opções anteriores" },
+      { "text": "Interface de usuário mais intuitiva." },
+      { "text": "Acesso a recursos como câmera e sensores diversos." }
+    ],
+    "Resposta": "Acesso a recursos como câmera e sensores diversos."
+  },
+  {
+    "question": "Quais são os objetivos de aprender sobre design de interação para aplicativos móveis?",
+    "options": [
+      { "text": "Todas as alternativas anteriores" },
+      { "text": "Operacionalizar as diretrizes de interação." },
+      { "text": "Identificar os principais desafios de desenvolvimento de aplicativos móveis." },
+      { "text": "Nenhuma das respostas anteriores." },
+      { "text": "Compreender as diretrizes para o design de interação." }
+    ],
+    "Resposta": "Todas as alternativas anteriores"
+  },
+  {
+    "question": "O que é o (Play Store) no contexto do desenvolvimento Android?",
+    "options": [
+      { "text": "Um editor de código" },
+      { "text": "Uma biblioteca de classes" },
+      { "text": "Uma ferramenta de depuração" },
+      { "text": "Uma plataforma de distribuição de aplicativos" },
+      { "text": "Um emulador de dispositivos" }
+    ],
+    "Resposta": "Uma plataforma de distribuição de aplicativos"
+  },
+  {
+    "question": "O que são componentes principais do React Native?",
+    "options": [
+      { "text": "Componentes que fornecem acesso aos recursos nativos da plataforma, como câmera, geolocalização, etc." },
+      { "text": "Componentes que são escritos em linguagens nativas da plataforma, como Java, Swift, etc." },
+      { "text": "Componentes que são fornecidos pelo React Native e podem ser usados em qualquer plataforma, como View, Text, Button, etc." },
+      { "text": "Componentes que são criados pelo usuário a partir de outros componentes do React Native, como App, Header, Footer, etc." },
+      { "text": "Componentes que são usados para gerenciar o estado e os dados do aplicativo, como Redux, MobX, etc." }
+    ],
+    "Resposta": "Componentes que são fornecidos pelo React Native e podem ser usados em qualquer plataforma, como View, Text, Button, etc."
+  },
+  {
+    "question": "Qual das seguintes afirmações melhor descreve um aplicativo para smartphone?",
+    "options": [
+      { "text": "É um programa que só pode ser baixado em um computador desktop." },
+      { "text": "É um programa que pode ser baixado em um smartphone ou tablet e executado nele para realizar diferentes tarefas, como jogar jogos, se comunicar com outras pessoas, gerenciar tarefas e muito mais." },
+      { "text": "É um programa que não pode ser encontrado em lojas de aplicativos, como a App Store ou a Google Play Store." },
+      { "text": "É um programa que só pode ser usado em dispositivos não móveis, como desktops ou laptops." },
+      { "text": "É um programa que não pode ser baixado ou instalado em dispositivos móveis" }
+    ],
+    "Resposta": "É um programa que pode ser baixado em um smartphone ou tablet e executado nele para realizar diferentes tarefas, como jogar jogos, se comunicar com outras pessoas, gerenciar tarefas e muito mais."
+  },
+  {
+    "question": "Qual das seguintes opções NÃO é um conceito principal do React ?",
+    "options": [
+      { "text": "Componentes" },
+      { "text": "JSX" },
+      { "text": "Adereços" },
+      { "text": "Estado" },
+      { "text": "Herança" }
+    ],
+    "Resposta": "Herança"
   }
   
 ]
