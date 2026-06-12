@@ -86,18 +86,7 @@
       { "text": "Todas as alternativas estão corretas" }
     ],
     "Resposta": "Uma aplicação Web que implementa certas especicações técnicas e, em versões mais atuais, sobretudo da plataforma Android, executa em um browser oculto."
-  },
-  {
-    "question": "",
-    "options": [
-      { "text": "" },
-      { "text": "" },
-      { "text": "" },
-      { "text": "" },
-      { "text": "" }
-    ],
-    "Resposta": ""
-  },
+  }, 
   {
     "question": "Dado o componente abaixo, avalie as armativas.<br><img src='./Img_perguntas/DSM1.png'><br>Avalie as seguintes asserções abaixo:<br>I- O hook useEect será executado sempre que um botão seja clicado<br>PORQUE<br>II- O valor do objeto mudou, muda a cada clique em qualquer botão pois a referência do objeto foi alterada em memória.<br>É correto o que se arfima em:",
     "options": [
@@ -351,18 +340,6 @@
       { "text": "IV e V somente." }
     ],
     "Resposta": "I e V somente."
-  },
-  {
-    "question": "Dado o componente abaixo:<br>Considere um App que tem um Drawer Navigator que renderiza primeiro o componete HomeScreen. E estando nesta tela, ao se clicar no botão somar, navega-se para a tela ResultScreen (Figura 1), levando consigo os valores que estão nos dois TextInput. E ao se clicar no botão OPEN DRAWER, abre-se o menu (Figura 2). Caso se clique no menu DetailSomar a tela ResultSrceen é renderizada (Figura 3). Esta tela deve efetuar a soma dos valores digitados no TextInput, exibir o resultado a frente do texto 'Soma', e ao se clicar no botão VOLTAR, o resultado é passado de volta para a tela HomeScreen que exibe o valor depois do texto 'Resultado da Soma:'.,<br><img src='./Img_perguntas/DSMQUE1.png'><br>Abaixo segue o código do componente HomeScreen:<br><img src='./Img_perguntas/DSMQUE1.2.png'><br>Ao clicar no botão VOLTAR na tela ResultScreen, o valor da soma é passado de volta para Tela HomeScreen, mas o valor inicial digitado nos campos TextInput permanecem. Para se evitar isso, ao voltar da ResultScreen, estes campos devem ser apagados e preenchidos com zero. Para tal, foi usado o Hook use Effect.<br>Avalie as afirmativas abaixo:<br>I- Ao voltar da tela ResultScreen os campos TextInput estão zerados<br>II- O valor passado para ResultScreen será o valor do primeiro TextInput, com o valor digitado do segundo TextInput.<br>III- Ao voltar da tela ResultScreen somente o primeiro TextInput (valor1) estará zerado<br>IV- Ao voltar da tela ResultScreen somente o segundo TextInput (valor2) estará zerado<br>V-O valor passado para ResultScreen será o valor digitado no primeito TextInput, com o valor constante do segundo TextInput.<br>É correto o que se afirma em:",
-    
-    "options": [
-       { "text": "I e II somente" },
-      { "text": "II e V somente." },
-      { "text": "III e V somente." },
-      { "text": "I e V somente" },
-      { "text": "IV e V somente." }
-    ],
-    "Resposta": "I e II somente"
   },
   {
     "question": "Abaixo tem um componente:<br>Foi gerado o número ímpar aleatório entre o número digitado no TextInput e 65.<br>O número é gerado após se clicar no botão.<br><img src='./Img_perguntas/DSMQUE2.png'>Qual das funções abaixo gera um número aleatório ímpar entre número digitado no TextInput (novoMin) e 65 (max), sendo que os extremos podem ser considerados",
