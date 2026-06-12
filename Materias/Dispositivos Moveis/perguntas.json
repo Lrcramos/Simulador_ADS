@@ -464,7 +464,7 @@
     "Resposta": "É um programa que pode ser baixado em um smartphone ou tablet e executado nele para realizar diferentes tarefas, como jogar jogos, se comunicar com outras pessoas, gerenciar tarefas e muito mais."
   },
   {
-    "question": "Qual das seguintes opções NÃO é um conceito principal do React ?",
+    "question": "Qual das seguintes opções NÃO é um conceito principal do React?",
     "options": [
       { "text": "Componentes" },
       { "text": "JSX" },
