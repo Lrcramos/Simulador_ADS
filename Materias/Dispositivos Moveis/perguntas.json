@@ -384,6 +384,39 @@
       { "text": "Herança" }
     ],
     "Resposta": "Herança"
+  },
+   {
+    "question": "Qual das seguintes opções NÃO é uma maneira comum de classificar as guidelines?",
+    "options": [
+      { "text": "Por plataforma" },
+      { "text": "Por área de foco" },
+      { "text": "Por público-alvo" },
+      { "text": "Por nível de detalhe" },
+      { "text": "Por cor preferida" }
+    ],
+    "Resposta": "Por cor preferida"
+  },
+  {
+    "question": "Qual das seguintes afirmações melhor descreve o desenvolvimento híbrido?",
+    "options": [
+      { "text": "É uma abordagem que usa tecnologias web padrão para criar um único aplicativo que só pode ser executado em uma plataforma móvel específica." },
+      { "text": "É uma abordagem que usa tecnologias web padrão para criar vários aplicativos que podem ser executados em diferentes plataformas móveis." },
+      { "text": "É uma abordagem que usa tecnologias web padrão para criar um único aplicativo que pode ser executado em diferentes plataformas móveis." },
+      { "text": "É uma abordagem que não permite economizar tempo e esforço, criando um aplicativo de alta qualidade de forma mais econômica e eficiente." },
+      { "text": "É uma abordagem que não usa tecnologias web padrão para criar aplicativos." }
+    ],
+    "Resposta": "É uma abordagem que usa tecnologias web padrão para criar um único aplicativo que pode ser executado em diferentes plataformas móveis."
+  },
+  {
+    "question": "Qual das seguintes afirmações melhor descreve um aplicativo para smartphone?",
+    "options": [
+      { "text": "É um programa que só pode ser baixado em um computador desktop." },
+      { "text": "É um programa que pode ser baixado em um smartphone ou tablet e executado nele para realizar diferentes tarefas, como jogar jogos, se comunicar com outras pessoas, gerenciar tarefas e muito mais." },
+      { "text": "É um programa que não pode ser encontrado em lojas de aplicativos, como a App Store ou a Google Play Store." },
+      { "text": "É um programa que só pode ser usado em dispositivos não móveis, como desktops ou laptops." },
+      { "text": "É um programa que não pode ser baixado ou instalado em dispositivos móveis." }
+    ],
+    "Resposta": "É um programa que pode ser baixado em um smartphone ou tablet e executado nele para realizar diferentes tarefas, como jogar jogos, se comunicar com outras pessoas, gerenciar tarefas e muito mais."
   }
   
 ]
